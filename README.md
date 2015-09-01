@@ -9,7 +9,7 @@
  Github, then use it yourself! 
  And Remember:
  <b>NO USING OUR CODE IF YOU'RE USING IT IN A NON-OPEN SOURCE PROJECT</b>
-Keep the dog if you like! But if you do, say you found him on SuicSoft.com - read more in <b>LICENSE.txt</b>
+Keep the dog if you like! But if you do, say you found him on SuicSoft.com - read more in <b>LICENSE.md</b>
 
 # SuicSoft. Better Software. Happier PCs
 SuicSoft's great <b>FREEWARE</b> are <b>badware</b> free (free from those annoying stuff...you know)
